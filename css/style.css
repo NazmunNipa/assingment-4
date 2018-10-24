@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+
+*{    box-sizing: border-box;}
+
+body {font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+    padding: 0;
+    margin: 0;
+}
+
+
+
+img{
+	max-width: 100%;
+	display: block;
+	
+}
+
+.signup-form-section{  }
+.logo-area{width: 40%;
+    float: left;
+    background: yellowgreen;
+    height: 100vh;
+    padding: 100px;}
+.logo{ width: 150px;}
+.logo img{}
+.graphic-img{margin-top: 100px;}
+.graphic-img img{}
+.signup-form{ width: 60%;
+    float: left;
+    background: #5eb15e;
+    height: 100vh;
+    padding: 100px}
+.form-section{  width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;}
+
+.form-section h1{color: white;
+    font-size: 20px;
+    font-weight: 100;
+    margin: 0;}
+.form-section p  {color: white;
+    font-size: 15px;
+    font-weight: 100;
+    margin: 10px 0 40px;}
+.form-section strong{color: white;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 10px}
+strong{ color: white;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 10px
+    : block;
+    display: block;
+   }
+form{}
+form input{width: 100%;
+    font-size: 18px;
+    font-weight: 100;
+    margin-bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px 15px;}
+form input [type="submit"]{ margin: auto;  }
+
+.register_option{}
+.register_option span{    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    float: left;
+    margin-top: 20px;
+}
+.register_option ul{    padding: 0;
+    float: left;
+}
+.register_option  ul li{    float: left;
+    list-style: none;
+}
+
+.register_option ul li a{color: white;
+    text-transform: capitalize;
+    text-decoration: none;
+    display: block;
+    padding: 0px 7px;}
+
+
+
+
+
+
